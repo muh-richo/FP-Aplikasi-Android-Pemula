@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Makanan</string>
+
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_description">Detail Deskripsi</string>
+    <string name="other_food">Makanan Lain</string>
+    <string name="profile">Profile</string>
+    <string name="profile_name">Muhammad Richo Abadinata</string>
+    <string name="email">muhrichoa@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Rendang</item>
+        <item>Pempek</item>
+        <item>Nasi Goreng</item>
+        <item>Gudeg</item>
+        <item>Nasi Liwet</item>
+        <item>Tengkleng</item>
+        <item>Bakso</item>
+        <item>Lumpia</item>
+        <item>Rawon</item>
+        <item>Sate Lilit</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rendang adalah hidangan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna cokelat terang keemasan</item>
+        <item>Pempek adalah makanan khas Palembang, Sumatera Selatan. Proses pembuatannya yakni dibuat dari daging ikan yang digiling lembut, dicampur tepung kanji atau tepung sagu, serta dengan penambahan komposisi bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam. Pempek biasanya disajikan dengan kuah yang disebut cuko yang memiliki rasa asam, manis, dan pedas. Pada tahun 1880-an, para penjual pempek biasa memikul satu keranjang penuh sambil berjalan kaki berkeliling menjajakan dagangannya. Saat ini pempek didagangkan oleh pedagang kaki lima maupun restoran.</item>
+        <item>Nasi goreng merupakan sajian nasi yang digoreng dalam sebuah wajan atau penggorengan yang menghasilkan cita rasa berbeda karena dicampur dengan bumbu-bumbu seperti garam, bawang putih, bawang merah, merica, rempah-rempah tertentu dan kecap manis. Selain itu, ditambahkan bahan-bahan pelengkap seperti telur, sayur-sayuran, makanan laut, atau daging. Makanan tersebut sering kali disantap sendiri atau disertai dengan hidangan lainnya. Nasi goreng adalah komponen populer dari masakan Asia Timur, Tenggara dan Selatan pada wilayah tertentu.</item>
+        <item>Gudeg adalah hidangan khas Daerah Istimewa Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat hidangan gudeg. Warna cokelat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg biasanya dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu, dan sambal goreng krecek. Gudeg sangat populer di Jawa, hidangan ini merupakan hidangan populer baik sebagai masakan rumahan maupun hidangan jalanan. Gudeg juga diproduksi secara industri sebagai makanan kaleng</item>
+        <item>Nasi liwet adalah hidangan nasi khas Indonesia yang dimasak dengan santan, kaldu ayam, dan rempah-rempah Nasi kukus biasanya dimasak dalam air, tetapi nasi liwet adalah nasi yang dimasak dengan santan, kaldu ayam, daun salam dan serai, sehingga memberikan nasi rasa yang kaya, aromatik, dan gurih.[2] Nasi liwet adalah cara memasak nasi tradisional Jawa dengan santan. Ada juga varian nasi liwet ala Sunda yang berbeda rasa dan penyajiannya. Kegiatan memasak nasi liwet ala Sunda dan makan bersama dengan alas daun pisang dalam tradisi masyarakat Sunda disebut Ngaliwet. </item>
+        <item>Tengkleng kambing Solo merupakan makanan khas wilayah Surakarta dan sekitarnya berbahan dasar olahan daging kambing dengan kuah bumbu kuning yang memiliki citarasa gurih. Kuliner tradisional ini menjadi menu favorit pecinta kuliner ketika berkunjung ke Surakarta. Kuliner Tengkleng pada dasarnya memiliki bahan-bahan yang hampir sama dengan gulai kambing. Perbedaan terletak pada kuahnya, tengkleng tidak dimasak dengan santan. Masyrakarat beranggapan bahwa tengkleng memiliki kandungan kolesterol lebih rendah daripada gulai atau tongseng. Racikan bumbu rempah-rempah yang khas membuat kuah tengkleng memiliki citarasa yang kuat.</item>
+        <item>Bakso merupakan campuran daging sapi giling yang dicampur tepung tapioca dan dibentuk mirip bola-bola kecil ,biasanya menggunakan daging sapi tapi banyak juga yang menggunakan  daging ikan,ayam,udang,kerbau. Bakso disajikan dalam keadaan panas dengan kuah bening biasanya juga di tambahkan mie dan bihun serta telur kemudian di taburi bawang goreng. Bakso sangat populer dan dapat ditemukan di seluruh Indonesia, dari gerobak pedagang kaki lima hingga restoran besar.</item>
+        <item>Lumpia adalah camilan yang dibuat dari adonan tepung dan telur yang didadar, diisi daging, rebung, dan sebagainya, lalu digulung, biasanya digoreng. Isi dari lumpia bermacam-macam. Di Indonesia, lumpia biasanya berisi sayuran. Di Indonesia, lumpia dikenal sebagai jajanan khas Semarang dan Ujung Pandang dengan tata cara pembuatan dan bahan-bahan yang telah disesuaikan dengan tradisi setempat.</item>
+        <item>Rawon adalah masakan khas Indonesia yang berasal dari Ponorogo yang berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek yang sebenarnya mengandung racun jenis Sianida, Makanan ini telah berusia lebih dari 1.000 tahun. Rawon dari Ponorogo menyebar ke penjuru Jawa Timur dan dikenal sebagai masakan khas Jawa Timur. Daging untuk rawon umumnya adalah daging sapi yang dipotong kecil-kecil, utamanya adalah bagian sandung lamur. Namun terkadang rawon juga hadir dengan daging ayam.</item>
+        <item>Sate Lilit adalah sebuah varian sate asal Bali. Sate ini terbuat dari daging babi, ikan, ayam, daging sapi, atau bahkan kura-kura yang dicincang, kemudian dicampur dengan parutan kelapa, santan, jeruk nipis, bawang merah, dan merica. Daging cincang yang telah berbumbu dilekatkan pada sebuah bambu atau tebu, kemudian dipanggang di atas arang. Tidak seperti sate lainnya yang dibuat dengan tusuk sate yang sempit dan tajam, tusuk sate lilit berbentuk datar dan lebar. Permukaan yang lebih luas memungkinkan daging cincang untuk melekat. Istilah lilit dalam bahasa Bali dan Indonesia berarti "membungkus", yang sesuai untuk cara pembuatan sate ini.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://cdn1-production-images-kly.akamaized.net/Kp7-Rx2mExjnhKVBwcAVln5NYJo=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2390404/original/024372700_1540278327-shutterstock_789397027.JPG</item>
+        <item>https://asset.kompas.com/crops/5jIgyN4ZO-g_BeEFpf8sgd89wak=/0x306:751x807/750x500/data/photo/2021/06/04/60b9e3f4f02e7.jpg</item>
+        <item>https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/the-ultimate-guide-to-must-try-indonesian-food/nasigoreng.jpg</item>
+        <item>https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/the-ultimate-guide-to-must-try-indonesian-food/5.jpg</item>
+        <item>https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/10/26084928/Resep-Nasi-Liwet-Khas-Sunda-Anti-Gagal-.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2023/06/Resep-tengkleng-sapi.jpeg</item>
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/04/16/IMG-20230416-WA0007-431083861.jpg</item>
+        <item>https://img.kurio.network/k4i9H75TrLYVzAXvnHhJ-eOz0pc=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/20/10/13/29a1a2bc-7a57-4997-8121-7c2ce9855a05.jpeg</item>
+        <item>https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/the-ultimate-guide-to-must-try-indonesian-food/8.jpg</item>
+        <item>https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/the-ultimate-guide-to-must-try-indonesian-food/10.jpg</item>
+    </string-array>
+</resources>
